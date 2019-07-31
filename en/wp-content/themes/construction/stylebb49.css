@@ -4474,7 +4474,7 @@ ul.product-categories li:first-child {
 line-height: 11px;
 padding-bottom: 7px;
 }
-.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {min-height: 340px}
+.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {min-height: 400px}
 .single-product .woocommerce ul.products li.product, .single-product .woocommerce-page ul.products li.product{min-height: 390px}
 .woocommerce ul.products li.product .button{position: absolute;bottom: 20px;left:0;right:0;margin: 0 25px}
 

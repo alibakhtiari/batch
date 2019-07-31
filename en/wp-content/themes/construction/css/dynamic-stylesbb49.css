@@ -1,0 +1,17 @@
+#loader{
+	background-image:url(../../../uploads/2019/07/WhatsApp-Image-2019-07-03-at-09.16.09-2.jpg);	}
+.go-full img{width:100%}
+@media screen and (max-width:960px){
+ .sectionTitles.m0 {margin-top:30px}
+}
+@media (max-width: 479px){
+#nr_topStrip .lang{margin-top:10px; margin-bottom:10px; display:block}
+}
+@media screen and  (max-width: 320px){
+.thumbs a {width:50px !Important; height:50px !important}
+ .thumbs img {width: 30px !Important; height:30px !important}
+}
+
+@media only screen and (max-width: 768px){
+	.woocommerce ul.products li.product, .woocommerce-page ul.products li.product {width: 48% !important}
+}

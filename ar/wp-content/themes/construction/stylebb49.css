@@ -453,13 +453,13 @@ header .social_nav ul li:last-child {
 .navbar-static-top .navbar-collapse> ul> li.current-menu-item:before {
   height: 12px;
   width: 100%;
-  -webkit-transform: skewX(45deg);
-  -ms-transform: skewX(45deg);
-  transform: skewX(45deg);
+  -webkit-transform: skewX(-45deg);
+  -ms-transform: skewX(-45deg);
+  transform: skewX(-45deg);
   background: #ae902e;
   display: block;
   content: '';
-  margin: -12px 0 0 6px;
+  margin: -12px 6px 0 0;
 }
 .navbar-static-top .navbar-collapse ul li.current-menu-ancestor a,
 .navbar-static-top .navbar-collapse ul li.current-menu-item a {

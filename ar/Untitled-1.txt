@@ -1,0 +1,132 @@
+راد سانات
+<link href="https://fonts.googleapis.com/css?family=Tajawal&display=swap" rel="stylesheet">
+
+
+<style type="text/css">
+		h1,
+		h2,
+		h3,
+		h4,
+		h5,
+		h6 {
+			font-family: 'Tajawal', sans-serif!important;
+		}
+
+		body {
+			font-family: 'Tajawal', sans-serif!important;
+		}
+
+		.rtl #wpadminbar *,
+		#wpadminbar * {
+			font: 400 13px/32px 'Tajawal', sans-serif!important;
+		}
+
+		pre,
+		code {
+			font-family: VRCD, monospaced;
+		}
+	</style>
+
+
+
+    <ul class="list-inline c-info fleft" style="margin-left:-14px">
+								<li><a href="mailto:mrsb1380@gmail.com"><i
+											class="fa fa-envelope-o"></i>mrsb1380@gmail.com</a></li>
+								<li><a href="tel:+989380643699"><i
+											class="fa fa-phone"></i>۹۸۹۳۸۰۶۴۳۶۹۹+</a> </li>
+								<li><a href="tel:+989126842045"><i
+											class="fa fa-phone"></i>۹۸۹۱۲۶۸۴۲۰۴۵+</a></li>
+							</ul>
+
+
+    <h2 class="tagline2">شركة راد سانات</h2>
+	<h3 class="sugol">شركة راد سانات للمعدات بهرامی</h3>
+
+
+
+    <span class="btn-text">اختر الصفحة</span>
+					</button>
+				</div>
+				<div class="collapse navbar-collapse" id="main_nav">
+					<ul id="menu-main-menu" class="nav navbar-nav">
+						<li id="menu-item-284"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-28 current_page_item menu-item-284 active">
+							<a title="الصفحة الرئيسية" href="index.html"> <i class="fa fa-home"></i>الصفحة الرئيسية<span></span></a>
+						</li>
+						<li id="menu-item-294"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-294"><a
+								title="المنتجات" href="/ar/product/index.html"> <i
+									class="fa fa-shopping-cart"></i>المنتجات<span></span></a></li>
+						<li id="menu-item-385"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-385"><a
+								title="الصفحة المشاريع المنجزة"
+								href="/ar/index.html#projects">المشاريع المنجزة<span></span></a></li>
+						<li id="menu-item-384"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a
+								title="معرض الصور"
+								href="/ar/gallery/index.html">معرض الصور<span></span></a></li>
+						<li id="menu-item-387"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-387"><a
+								title="اتصل بنا" href="/ar/contact-us/index.html">اتصل بنا<span></span></a></li>
+						<li id="menu-item-388"
+							class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388"><a
+								title="عنا"
+								href="/ar/about-us/index.html">عنا<span></span></a></li>
+
+
+
+
+<div class="footerWidget row">
+				<div class="widget_text col-sm-6">
+					<div class="widget_text  widget footer-widgets">
+						<div class="textwidget custom-html-widget">
+							<div class="textwidget">
+								<div class="row contact-tabbed getInTouch_tab m0  ">
+									<ul class="nav nav-tabs nav-justified" role="tablist" id="getInTouch_tab">
+										<li role="presentation" class="active"><a href="#contactPhone"
+												aria-controls="contactPhone" role="tab" data-toggle="tab"
+												aria-expanded="true"><i class="fa fa-phone"></i></a></li>
+										<li role="presentation" class=""><a href="#contactEmail"
+												aria-controls="contactEmail" role="tab" data-toggle="tab"
+												aria-expanded="false"><i class="fa fa-fax"></i></a></li>
+										<li role="presentation" class=""><a href="#contactHome"
+												aria-controls="contactHome" role="tab" data-toggle="tab"
+												aria-expanded="false"><i class="fa fa-home"></i></a></li>
+									</ul>
+									<div class="tab-content">
+										<div role="tabpanel" class="tab-pane active" id="contactPhone"><i
+											class="fa fa-phone"></i> هاتف :۹۸۲۱۳۶۴۱۱۱۰۸+ - ۹۸۹۱۲۶۸۴۲۰۴۵+ - ۹۸۹۳۸۰۶۴۳۶۹۹+</div>
+											<div role="tabpanel" class="tab-pane" id="contactEmail"><i
+												class="fa fa-fax"></i>الفاكس : ۰۲۱۳۶۴۱۱۱۰۸</div>
+										<div role="tabpanel" class="tab-pane" id="contactHome"><i
+												class="fa fa-home"></i>طهران ، رقم 2 ، طريق الإمام رضا ، بعد شارع باكداشت فسيفساء سوزان ، طهران
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="widget_text col-sm-6">
+					<div class="widget_text  widget footer-widgets">
+						<div class="textwidget custom-html-widget">
+							<div class="textwidget1" style="
+					-webkit-box-shadow: 0px 0px 7px -2px rgba(0,0,0,1);
+				   -moz-box-shadow: 0px 0px 7px -2px rgba(0,0,0,1);
+				   box-shadow: 0px 0px 7px -2px rgba(0,0,0,1);
+				   background-color: white;
+				   line-height: 33px;
+				   text-align: justify;
+				   padding:11px;
+			   ">بهرامي لصناعة راد التي لديها أكثر من 15 سنوات من الخبرة في مجال صناعة الخرسانة بهدف تصميم وتصنيع أنواع مختلفة من آلات الخرسانة ، بناء آلات خلط عالية الجودة وفقًا لأحدث التقنيات وخدمات ما بعد البيع ، وقد حصلت على شهادة في 1436 سنوات. ISO9001:2015 أصبحت إدارة الجودة واحدة من مصدري زراعة معدات الخلط إلى دول العراق وكازاخستان والإمارات العربية المتحدة.</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="row copyrightRow">
+
+
+<p class="copyright-inner">
+		<a href="http://mahanweb.com" target="_blank">تصميم موقع محترف</a> و <a
+			href="http://mahanweb.com/%d8%a8%d9%87%db%8c%d9%86%d9%87-%d8%b3%d8%a7%d8%b2%db%8c-%d8%b3%d8%a7%db%8c%d8%aa.html"
+			target="_blank">تحسين الموقع</a> ماهان وب</p>
